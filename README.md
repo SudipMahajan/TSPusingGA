@@ -5,3 +5,5 @@ This repository contains python implementation of Genetic Algorithms for Travell
 
 'smodule.py' contains back end definities of all the functions used in the algorithm
 
+The following recent paper can be refered to for GA algorithm
+https://www.hindawi.com/journals/cin/2017/7430125/
